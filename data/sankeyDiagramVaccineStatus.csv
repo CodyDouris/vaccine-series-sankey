@@ -1,0 +1,329 @@
+reportdate,pruid,prename,prfname,pop_group,source,target,total,proportion,population
+"July 17, 2022",1,Canada,Canada,12+,At least 1 dose,Partially vaccinated,801057,2.39,33482987
+"July 17, 2022",1,Canada,Canada,12+,At least 1 dose,Primary series completed,30108939,89.92,33482987
+"July 17, 2022",1,Canada,Canada,12+,Primary series completed,No additional dose,11264761,33.64,33482987
+"July 17, 2022",1,Canada,Canada,12+,Primary series completed,Received at least 1 additional dose,18844178,56.28,33482987
+"July 17, 2022",1,Canada,Canada,12+,Received at least 1 additional dose,No 2nd additional dose,13105863,45.26,28959849
+"July 17, 2022",1,Canada,Canada,12+,Received at least 1 additional dose,Not reported,2115092,46.76,4523138
+"July 17, 2022",1,Canada,Canada,12+,Received at least 1 additional dose,Received 2nd additional dose,3623223,12.51,28959849
+"July 17, 2022",1,Canada,Canada,18+,At least 1 dose,Partially vaccinated,707948,2.28,31014557
+"July 17, 2022",1,Canada,Canada,18+,At least 1 dose,Primary series completed,28038206,90.4,31014557
+"July 17, 2022",1,Canada,Canada,18+,Primary series completed,No additional dose,9658120,31.14,31014557
+"July 17, 2022",1,Canada,Canada,18+,Primary series completed,Received at least 1 additional dose,18380086,59.26,31014557
+"July 17, 2022",1,Canada,Canada,18+,Received at least 1 additional dose,No 2nd additional dose,12693435,47.25,26867177
+"July 17, 2022",1,Canada,Canada,18+,Received at least 1 additional dose,Not reported,2064066,49.77,4147380
+"July 17, 2022",1,Canada,Canada,18+,Received at least 1 additional dose,Received 2nd additional dose,3622585,13.48,26867177
+"July 17, 2022",1,Canada,Canada,5+,At least 1 dose,Partially vaccinated,1182379,3.25,36361666
+"July 17, 2022",1,Canada,Canada,5+,At least 1 dose,Primary series completed,31330755,86.16,36361666
+"July 17, 2022",1,Canada,Canada,5+,Primary series completed,No additional dose,12484585,34.33,36361666
+"July 17, 2022",1,Canada,Canada,5+,Primary series completed,Received at least 1 additional dose,18846170,51.83,36361666
+"July 17, 2022",1,Canada,Canada,5+,Received at least 1 additional dose,No 2nd additional dose,13107444,41.76,31385951
+"July 17, 2022",1,Canada,Canada,5+,Received at least 1 additional dose,Not reported,2115502,42.52,4975715
+"July 17, 2022",1,Canada,Canada,5+,Received at least 1 additional dose,Received 2nd additional dose,3623224,11.54,31385951
+"July 17, 2022",1,Canada,Canada,Total,At least 1 dose,Partially vaccinated,1183967,3.1,38244209
+"July 17, 2022",1,Canada,Canada,Total,At least 1 dose,Primary series completed,31333339,81.93,38244209
+"July 17, 2022",1,Canada,Canada,Total,Primary series completed,No additional dose,12487027,32.65,38244209
+"July 17, 2022",1,Canada,Canada,Total,Primary series completed,Received at least 1 additional dose,18846312,49.28,38244209
+"July 17, 2022",1,Canada,Canada,Total,Received at least 1 additional dose,No 2nd additional dose,13107562,39.75,32972702
+"July 17, 2022",1,Canada,Canada,Total,Received at least 1 additional dose,Not reported,2115521,40.13,5271507
+"July 17, 2022",1,Canada,Canada,Total,Received at least 1 additional dose,Received 2nd additional dose,3623229,10.99,32972702
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,12+,At least 1 dose,Partially vaccinated,13410,2.87,467760
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,12+,At least 1 dose,Primary series completed,457500,97.81,467760
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,12+,Primary series completed,No additional dose,157587,33.69,467760
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,12+,Primary series completed,Received at least 1 additional dose,299913,64.12,467760
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,12+,Received at least 1 additional dose,No 2nd additional dose,260405,55.67,467760
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,12+,Received at least 1 additional dose,Received 2nd additional dose,39508,8.45,467760
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,18+,At least 1 dose,Partially vaccinated,12368,2.83,436308
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,18+,At least 1 dose,Primary series completed,426993,97.87,436308
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,18+,Primary series completed,No additional dose,130881,30,436308
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,18+,Primary series completed,Received at least 1 additional dose,296112,67.87,436308
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,18+,Received at least 1 additional dose,No 2nd additional dose,256628,58.82,436308
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,18+,Received at least 1 additional dose,Received 2nd additional dose,39484,9.05,436308
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,5+,At least 1 dose,Partially vaccinated,19282,3.85,500997
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,5+,At least 1 dose,Primary series completed,480721,95.95,500997
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,5+,Primary series completed,No additional dose,180793,36.09,500997
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,5+,Primary series completed,Received at least 1 additional dose,299928,59.87,500997
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,5+,Received at least 1 additional dose,No 2nd additional dose,260420,51.98,500997
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,5+,Received at least 1 additional dose,Received 2nd additional dose,39508,7.89,500997
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,Total,At least 1 dose,Partially vaccinated,19293,3.71,520553
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,Total,At least 1 dose,Primary series completed,480724,92.35,520553
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,Total,Primary series completed,No additional dose,180796,34.73,520553
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,Total,Primary series completed,Received at least 1 additional dose,299928,57.62,520553
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,Total,Received at least 1 additional dose,No 2nd additional dose,260420,50.03,520553
+"July 17, 2022",10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,Total,Received at least 1 additional dose,Received 2nd additional dose,39508,7.59,520553
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,12+,At least 1 dose,Partially vaccinated,4313,2.97,145431
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,12+,At least 1 dose,Primary series completed,137878,94.81,145431
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,12+,Primary series completed,No additional dose,54505,37.48,145431
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,12+,Primary series completed,Received at least 1 additional dose,83373,57.33,145431
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,12+,Received at least 1 additional dose,No 2nd additional dose,65226,44.85,145431
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,12+,Received at least 1 additional dose,Received 2nd additional dose,18147,12.48,145431
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,18+,At least 1 dose,Partially vaccinated,3932,2.92,134454
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,18+,At least 1 dose,Primary series completed,128496,95.57,134454
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,18+,Primary series completed,No additional dose,46728,34.75,134454
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,18+,Primary series completed,Received at least 1 additional dose,81768,60.81,134454
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,18+,Received at least 1 additional dose,No 2nd additional dose,63633,47.33,134454
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,18+,Received at least 1 additional dose,Received 2nd additional dose,18135,13.49,134454
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,5+,At least 1 dose,Partially vaccinated,5822,3.7,157223
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,5+,At least 1 dose,Primary series completed,144256,91.75,157223
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,5+,Primary series completed,No additional dose,60883,38.72,157223
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,5+,Primary series completed,Received at least 1 additional dose,83373,53.03,157223
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,5+,Received at least 1 additional dose,No 2nd additional dose,65226,41.49,157223
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,5+,Received at least 1 additional dose,Received 2nd additional dose,18147,11.54,157223
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,Total,At least 1 dose,Partially vaccinated,5822,3.54,164318
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,Total,At least 1 dose,Primary series completed,144256,87.79,164318
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,Total,Primary series completed,No additional dose,60883,37.05,164318
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,Total,Primary series completed,Received at least 1 additional dose,83373,50.74,164318
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,Total,Received at least 1 additional dose,No 2nd additional dose,65226,39.69,164318
+"July 17, 2022",11,Prince Edward Island,Île-du-Prince-Édouard,Total,Received at least 1 additional dose,Received 2nd additional dose,18147,11.04,164318
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,12+,At least 1 dose,Partially vaccinated,30702,3.47,884353
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,12+,At least 1 dose,Primary series completed,827626,93.59,884353
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,12+,Primary series completed,No additional dose,293639,33.2,884353
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,12+,Primary series completed,Received at least 1 additional dose,533987,60.38,884353
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,12+,Received at least 1 additional dose,No 2nd additional dose,449365,50.81,884353
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,12+,Received at least 1 additional dose,Received 2nd additional dose,84622,9.57,884353
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,18+,At least 1 dose,Partially vaccinated,27681,3.35,826234
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,18+,At least 1 dose,Primary series completed,776882,94.03,826234
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,18+,Primary series completed,No additional dose,249816,30.24,826234
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,18+,Primary series completed,Received at least 1 additional dose,527066,63.79,826234
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,18+,Received at least 1 additional dose,No 2nd additional dose,442456,53.55,826234
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,18+,Received at least 1 additional dose,Received 2nd additional dose,84610,10.24,826234
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,5+,At least 1 dose,Partially vaccinated,44178,4.65,950604
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,5+,At least 1 dose,Primary series completed,858015,90.26,950604
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,5+,Primary series completed,No additional dose,324011,34.08,950604
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,5+,Primary series completed,Received at least 1 additional dose,534004,56.18,950604
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,5+,Received at least 1 additional dose,No 2nd additional dose,449382,47.27,950604
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,5+,Received at least 1 additional dose,Received 2nd additional dose,84622,8.9,950604
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,Total,At least 1 dose,Partially vaccinated,44178,4.45,992055
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,Total,At least 1 dose,Primary series completed,858015,86.49,992055
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,Total,Primary series completed,No additional dose,324011,32.66,992055
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,Total,Primary series completed,Received at least 1 additional dose,534004,53.83,992055
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,Total,Received at least 1 additional dose,No 2nd additional dose,449382,45.3,992055
+"July 17, 2022",12,Nova Scotia,Nouvelle-Écosse,Total,Received at least 1 additional dose,Received 2nd additional dose,84622,8.53,992055
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,12+,At least 1 dose,Partially vaccinated,28136,4.01,701879
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,12+,At least 1 dose,Primary series completed,636129,90.63,701879
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,12+,Primary series completed,No additional dose,238594,33.99,701879
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,12+,Primary series completed,Received at least 1 additional dose,397535,56.64,701879
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,12+,Received at least 1 additional dose,Not reported,397535,56.64,701879
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,18+,At least 1 dose,Partially vaccinated,25936,3.97,653390
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,18+,At least 1 dose,Primary series completed,591864,90.58,653390
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,18+,Primary series completed,No additional dose,205324,31.42,653390
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,18+,Primary series completed,Received at least 1 additional dose,386540,59.16,653390
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,18+,Received at least 1 additional dose,Not reported,386540,59.16,653390
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,5+,At least 1 dose,Partially vaccinated,37832,5,756177
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,5+,At least 1 dose,Primary series completed,662203,87.57,756177
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,5+,Primary series completed,No additional dose,264370,34.96,756177
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,5+,Primary series completed,Received at least 1 additional dose,397833,52.61,756177
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,5+,Received at least 1 additional dose,Not reported,397833,52.61,756177
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,Total,At least 1 dose,Partially vaccinated,37846,4.8,789225
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,Total,At least 1 dose,Primary series completed,662289,83.92,789225
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,Total,Primary series completed,No additional dose,264456,33.51,789225
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,Total,Primary series completed,Received at least 1 additional dose,397833,50.41,789225
+"July 17, 2022",13,New Brunswick,Nouveau-Brunswick,Total,Received at least 1 additional dose,Not reported,397833,50.41,789225
+"July 17, 2022",24,Quebec,Québec,12+,At least 1 dose,Partially vaccinated,137868,1.83,7532471
+"July 17, 2022",24,Quebec,Québec,12+,At least 1 dose,Primary series completed,6849481,90.93,7532471
+"July 17, 2022",24,Quebec,Québec,12+,Primary series completed,No additional dose,2349834,31.2,7532471
+"July 17, 2022",24,Quebec,Québec,12+,Primary series completed,Received at least 1 additional dose,4499647,59.74,7532471
+"July 17, 2022",24,Quebec,Québec,12+,Received at least 1 additional dose,No 2nd additional dose,3219353,42.74,7532471
+"July 17, 2022",24,Quebec,Québec,12+,Received at least 1 additional dose,Received 2nd additional dose,1280294,17,7532471
+"July 17, 2022",24,Quebec,Québec,18+,At least 1 dose,Partially vaccinated,118866,1.7,7003047
+"July 17, 2022",24,Quebec,Québec,18+,At least 1 dose,Primary series completed,6380633,91.11,7003047
+"July 17, 2022",24,Quebec,Québec,18+,Primary series completed,No additional dose,1968944,28.12,7003047
+"July 17, 2022",24,Quebec,Québec,18+,Primary series completed,Received at least 1 additional dose,4411689,63,7003047
+"July 17, 2022",24,Quebec,Québec,18+,Received at least 1 additional dose,No 2nd additional dose,3131679,44.72,7003047
+"July 17, 2022",24,Quebec,Québec,18+,Received at least 1 additional dose,Received 2nd additional dose,1280010,18.28,7003047
+"July 17, 2022",24,Quebec,Québec,5+,At least 1 dose,Partially vaccinated,219526,2.68,8182825
+"July 17, 2022",24,Quebec,Québec,5+,At least 1 dose,Primary series completed,7159157,87.49,8182825
+"July 17, 2022",24,Quebec,Québec,5+,Primary series completed,No additional dose,2658282,32.49,8182825
+"July 17, 2022",24,Quebec,Québec,5+,Primary series completed,Received at least 1 additional dose,4500875,55,8182825
+"July 17, 2022",24,Quebec,Québec,5+,Received at least 1 additional dose,No 2nd additional dose,3220581,39.36,8182825
+"July 17, 2022",24,Quebec,Québec,5+,Received at least 1 additional dose,Received 2nd additional dose,1280294,15.65,8182825
+"July 17, 2022",24,Quebec,Québec,Total,At least 1 dose,Partially vaccinated,219666,2.55,8604495
+"July 17, 2022",24,Quebec,Québec,Total,At least 1 dose,Primary series completed,7159157,83.2,8604495
+"July 17, 2022",24,Quebec,Québec,Total,Primary series completed,No additional dose,2658282,30.89,8604495
+"July 17, 2022",24,Quebec,Québec,Total,Primary series completed,Received at least 1 additional dose,4500875,52.31,8604495
+"July 17, 2022",24,Quebec,Québec,Total,Received at least 1 additional dose,No 2nd additional dose,3220581,37.43,8604495
+"July 17, 2022",24,Quebec,Québec,Total,Received at least 1 additional dose,Received 2nd additional dose,1280294,14.88,8604495
+"July 17, 2022",35,Ontario,Ontario,12+,At least 1 dose,Partially vaccinated,283874,2.18,13038032
+"July 17, 2022",35,Ontario,Ontario,12+,At least 1 dose,Primary series completed,11703967,89.77,13038032
+"July 17, 2022",35,Ontario,Ontario,12+,Primary series completed,No additional dose,4290522,32.91,13038032
+"July 17, 2022",35,Ontario,Ontario,12+,Primary series completed,Received at least 1 additional dose,7413445,56.86,13038032
+"July 17, 2022",35,Ontario,Ontario,12+,Received at least 1 additional dose,No 2nd additional dose,5885991,45.14,13038032
+"July 17, 2022",35,Ontario,Ontario,12+,Received at least 1 additional dose,Received 2nd additional dose,1527454,11.72,13038032
+"July 17, 2022",35,Ontario,Ontario,18+,At least 1 dose,Partially vaccinated,249394,2.07,12076175
+"July 17, 2022",35,Ontario,Ontario,18+,At least 1 dose,Primary series completed,10911329,90.35,12076175
+"July 17, 2022",35,Ontario,Ontario,18+,Primary series completed,No additional dose,3681970,30.49,12076175
+"July 17, 2022",35,Ontario,Ontario,18+,Primary series completed,Received at least 1 additional dose,7229359,59.86,12076175
+"July 17, 2022",35,Ontario,Ontario,18+,Received at least 1 additional dose,No 2nd additional dose,5702141,47.22,12076175
+"July 17, 2022",35,Ontario,Ontario,18+,Received at least 1 additional dose,Received 2nd additional dose,1527218,12.65,12076175
+"July 17, 2022",35,Ontario,Ontario,5+,At least 1 dose,Partially vaccinated,428364,3.04,14113455
+"July 17, 2022",35,Ontario,Ontario,5+,At least 1 dose,Primary series completed,12142351,86.03,14113455
+"July 17, 2022",35,Ontario,Ontario,5+,Primary series completed,No additional dose,4728654,33.5,14113455
+"July 17, 2022",35,Ontario,Ontario,5+,Primary series completed,Received at least 1 additional dose,7413697,52.53,14113455
+"July 17, 2022",35,Ontario,Ontario,5+,Received at least 1 additional dose,No 2nd additional dose,5886242,41.71,14113455
+"July 17, 2022",35,Ontario,Ontario,5+,Received at least 1 additional dose,Received 2nd additional dose,1527455,10.82,14113455
+"July 17, 2022",35,Ontario,Ontario,Total,At least 1 dose,Partially vaccinated,429429,2.9,14826276
+"July 17, 2022",35,Ontario,Ontario,Total,At least 1 dose,Primary series completed,12144279,81.91,14826276
+"July 17, 2022",35,Ontario,Ontario,Total,Primary series completed,No additional dose,4730461,31.91,14826276
+"July 17, 2022",35,Ontario,Ontario,Total,Primary series completed,Received at least 1 additional dose,7413818,50,14826276
+"July 17, 2022",35,Ontario,Ontario,Total,Received at least 1 additional dose,No 2nd additional dose,5886358,39.7,14826276
+"July 17, 2022",35,Ontario,Ontario,Total,Received at least 1 additional dose,Received 2nd additional dose,1527460,10.3,14826276
+"July 17, 2022",46,Manitoba,Manitoba,12+,At least 1 dose,Partially vaccinated,23382,1.99,1176028
+"July 17, 2022",46,Manitoba,Manitoba,12+,At least 1 dose,Primary series completed,1053290,89.56,1176028
+"July 17, 2022",46,Manitoba,Manitoba,12+,Primary series completed,No additional dose,441073,37.51,1176028
+"July 17, 2022",46,Manitoba,Manitoba,12+,Primary series completed,Received at least 1 additional dose,612217,52.06,1176028
+"July 17, 2022",46,Manitoba,Manitoba,12+,Received at least 1 additional dose,No 2nd additional dose,478070,40.65,1176028
+"July 17, 2022",46,Manitoba,Manitoba,12+,Received at least 1 additional dose,Received 2nd additional dose,134147,11.41,1176028
+"July 17, 2022",46,Manitoba,Manitoba,18+,At least 1 dose,Partially vaccinated,19205,1.79,1074547
+"July 17, 2022",46,Manitoba,Manitoba,18+,At least 1 dose,Primary series completed,971086,90.37,1074547
+"July 17, 2022",46,Manitoba,Manitoba,18+,Primary series completed,No additional dose,367352,34.19,1074547
+"July 17, 2022",46,Manitoba,Manitoba,18+,Primary series completed,Received at least 1 additional dose,603734,56.18,1074547
+"July 17, 2022",46,Manitoba,Manitoba,18+,Received at least 1 additional dose,No 2nd additional dose,469612,43.7,1074547
+"July 17, 2022",46,Manitoba,Manitoba,18+,Received at least 1 additional dose,Received 2nd additional dose,134122,12.48,1074547
+"July 17, 2022",46,Manitoba,Manitoba,5+,At least 1 dose,Partially vaccinated,41629,3.2,1301505
+"July 17, 2022",46,Manitoba,Manitoba,5+,At least 1 dose,Primary series completed,1107877,85.12,1301505
+"July 17, 2022",46,Manitoba,Manitoba,5+,Primary series completed,No additional dose,495630,38.08,1301505
+"July 17, 2022",46,Manitoba,Manitoba,5+,Primary series completed,Received at least 1 additional dose,612247,47.04,1301505
+"July 17, 2022",46,Manitoba,Manitoba,5+,Received at least 1 additional dose,No 2nd additional dose,478100,36.73,1301505
+"July 17, 2022",46,Manitoba,Manitoba,5+,Received at least 1 additional dose,Received 2nd additional dose,134147,10.31,1301505
+"July 17, 2022",46,Manitoba,Manitoba,Total,At least 1 dose,Partially vaccinated,41676,3.01,1383765
+"July 17, 2022",46,Manitoba,Manitoba,Total,At least 1 dose,Primary series completed,1107887,80.06,1383765
+"July 17, 2022",46,Manitoba,Manitoba,Total,Primary series completed,No additional dose,495638,35.82,1383765
+"July 17, 2022",46,Manitoba,Manitoba,Total,Primary series completed,Received at least 1 additional dose,612249,44.25,1383765
+"July 17, 2022",46,Manitoba,Manitoba,Total,Received at least 1 additional dose,No 2nd additional dose,478102,34.55,1383765
+"July 17, 2022",46,Manitoba,Manitoba,Total,Received at least 1 additional dose,Received 2nd additional dose,134147,9.69,1383765
+"July 17, 2022",47,Saskatchewan,Saskatchewan,12+,At least 1 dose,Partially vaccinated,34067,3.42,996896
+"July 17, 2022",47,Saskatchewan,Saskatchewan,12+,At least 1 dose,Primary series completed,865214,86.79,996896
+"July 17, 2022",47,Saskatchewan,Saskatchewan,12+,Primary series completed,No additional dose,362901,36.4,996896
+"July 17, 2022",47,Saskatchewan,Saskatchewan,12+,Primary series completed,Received at least 1 additional dose,502313,50.39,996896
+"July 17, 2022",47,Saskatchewan,Saskatchewan,12+,Received at least 1 additional dose,No 2nd additional dose,367299,36.84,996896
+"July 17, 2022",47,Saskatchewan,Saskatchewan,12+,Received at least 1 additional dose,Received 2nd additional dose,135014,13.54,996896
+"July 17, 2022",47,Saskatchewan,Saskatchewan,18+,At least 1 dose,Partially vaccinated,29196,3.22,907546
+"July 17, 2022",47,Saskatchewan,Saskatchewan,18+,At least 1 dose,Primary series completed,796121,87.72,907546
+"July 17, 2022",47,Saskatchewan,Saskatchewan,18+,Primary series completed,No additional dose,307384,33.87,907546
+"July 17, 2022",47,Saskatchewan,Saskatchewan,18+,Primary series completed,Received at least 1 additional dose,488737,53.85,907546
+"July 17, 2022",47,Saskatchewan,Saskatchewan,18+,Received at least 1 additional dose,No 2nd additional dose,353743,38.98,907546
+"July 17, 2022",47,Saskatchewan,Saskatchewan,18+,Received at least 1 additional dose,Received 2nd additional dose,134994,14.87,907546
+"July 17, 2022",47,Saskatchewan,Saskatchewan,5+,At least 1 dose,Partially vaccinated,49003,4.43,1107019
+"July 17, 2022",47,Saskatchewan,Saskatchewan,5+,At least 1 dose,Primary series completed,907974,82.02,1107019
+"July 17, 2022",47,Saskatchewan,Saskatchewan,5+,Primary series completed,No additional dose,405648,36.64,1107019
+"July 17, 2022",47,Saskatchewan,Saskatchewan,5+,Primary series completed,Received at least 1 additional dose,502326,45.38,1107019
+"July 17, 2022",47,Saskatchewan,Saskatchewan,5+,Received at least 1 additional dose,No 2nd additional dose,367312,33.18,1107019
+"July 17, 2022",47,Saskatchewan,Saskatchewan,5+,Received at least 1 additional dose,Received 2nd additional dose,135014,12.2,1107019
+"July 17, 2022",47,Saskatchewan,Saskatchewan,Total,At least 1 dose,Partially vaccinated,49031,4.16,1179844
+"July 17, 2022",47,Saskatchewan,Saskatchewan,Total,At least 1 dose,Primary series completed,907974,76.96,1179844
+"July 17, 2022",47,Saskatchewan,Saskatchewan,Total,Primary series completed,No additional dose,405648,34.38,1179844
+"July 17, 2022",47,Saskatchewan,Saskatchewan,Total,Primary series completed,Received at least 1 additional dose,502326,42.58,1179844
+"July 17, 2022",47,Saskatchewan,Saskatchewan,Total,Received at least 1 additional dose,No 2nd additional dose,367312,31.13,1179844
+"July 17, 2022",47,Saskatchewan,Saskatchewan,Total,Received at least 1 additional dose,Received 2nd additional dose,135014,11.44,1179844
+"July 17, 2022",48,Alberta,Alberta,12+,At least 1 dose,Partially vaccinated,119629,3.15,3791830
+"July 17, 2022",48,Alberta,Alberta,12+,At least 1 dose,Primary series completed,3267983,86.18,3791830
+"July 17, 2022",48,Alberta,Alberta,12+,Primary series completed,No additional dose,1565386,41.28,3791830
+"July 17, 2022",48,Alberta,Alberta,12+,Primary series completed,Received at least 1 additional dose,1702597,44.9,3791830
+"July 17, 2022",48,Alberta,Alberta,12+,Received at least 1 additional dose,Not reported,1702597,44.9,3791830
+"July 17, 2022",48,Alberta,Alberta,18+,At least 1 dose,Partially vaccinated,107397,3.1,3469002
+"July 17, 2022",48,Alberta,Alberta,18+,At least 1 dose,Primary series completed,3008412,86.72,3469002
+"July 17, 2022",48,Alberta,Alberta,18+,Primary series completed,No additional dose,1344515,38.76,3469002
+"July 17, 2022",48,Alberta,Alberta,18+,Primary series completed,Received at least 1 additional dose,1663897,47.96,3469002
+"July 17, 2022",48,Alberta,Alberta,18+,Received at least 1 additional dose,Not reported,1663897,47.96,3469002
+"July 17, 2022",48,Alberta,Alberta,5+,At least 1 dose,Partially vaccinated,166013,3.97,4184210
+"July 17, 2022",48,Alberta,Alberta,5+,At least 1 dose,Primary series completed,3406530,81.41,4184210
+"July 17, 2022",48,Alberta,Alberta,5+,Primary series completed,No additional dose,1703826,40.72,4184210
+"July 17, 2022",48,Alberta,Alberta,5+,Primary series completed,Received at least 1 additional dose,1702704,40.69,4184210
+"July 17, 2022",48,Alberta,Alberta,5+,Received at least 1 additional dose,Not reported,1702704,40.69,4184210
+"July 17, 2022",48,Alberta,Alberta,Total,At least 1 dose,Partially vaccinated,166296,3.74,4442879
+"July 17, 2022",48,Alberta,Alberta,Total,At least 1 dose,Primary series completed,3407087,76.69,4442879
+"July 17, 2022",48,Alberta,Alberta,Total,Primary series completed,No additional dose,1704364,38.36,4442879
+"July 17, 2022",48,Alberta,Alberta,Total,Primary series completed,Received at least 1 additional dose,1702723,38.32,4442879
+"July 17, 2022",48,Alberta,Alberta,Total,Received at least 1 additional dose,Not reported,1702723,38.32,4442879
+"July 17, 2022",59,British Columbia,Colombie-Britannique,12+,At least 1 dose,Partially vaccinated,121573,2.62,4644749
+"July 17, 2022",59,British Columbia,Colombie-Britannique,12+,At least 1 dose,Primary series completed,4218054,90.81,4644749
+"July 17, 2022",59,British Columbia,Colombie-Britannique,12+,Primary series completed,No additional dose,1472695,31.71,4644749
+"July 17, 2022",59,British Columbia,Colombie-Britannique,12+,Primary series completed,Received at least 1 additional dose,2745359,59.11,4644749
+"July 17, 2022",59,British Columbia,Colombie-Britannique,12+,Received at least 1 additional dose,No 2nd additional dose,2347149,50.53,4644749
+"July 17, 2022",59,British Columbia,Colombie-Britannique,12+,Received at least 1 additional dose,Received 2nd additional dose,398210,8.57,4644749
+"July 17, 2022",59,British Columbia,Colombie-Britannique,18+,At least 1 dose,Partially vaccinated,110511,2.55,4340815
+"July 17, 2022",59,British Columbia,Colombie-Britannique,18+,At least 1 dose,Primary series completed,3963059,91.3,4340815
+"July 17, 2022",59,British Columbia,Colombie-Britannique,18+,Primary series completed,No additional dose,1322930,30.48,4340815
+"July 17, 2022",59,British Columbia,Colombie-Britannique,18+,Primary series completed,Received at least 1 additional dose,2640129,60.82,4340815
+"July 17, 2022",59,British Columbia,Colombie-Britannique,18+,Received at least 1 additional dose,No 2nd additional dose,2241944,51.65,4340815
+"July 17, 2022",59,British Columbia,Colombie-Britannique,18+,Received at least 1 additional dose,Received 2nd additional dose,398185,9.17,4340815
+"July 17, 2022",59,British Columbia,Colombie-Britannique,5+,At least 1 dose,Partially vaccinated,164371,3.29,4990758
+"July 17, 2022",59,British Columbia,Colombie-Britannique,5+,At least 1 dose,Primary series completed,4363364,87.43,4990758
+"July 17, 2022",59,British Columbia,Colombie-Britannique,5+,Primary series completed,No additional dose,1617978,32.42,4990758
+"July 17, 2022",59,British Columbia,Colombie-Britannique,5+,Primary series completed,Received at least 1 additional dose,2745386,55.01,4990758
+"July 17, 2022",59,British Columbia,Colombie-Britannique,5+,Received at least 1 additional dose,No 2nd additional dose,2347176,47.03,4990758
+"July 17, 2022",59,British Columbia,Colombie-Britannique,5+,Received at least 1 additional dose,Received 2nd additional dose,398210,7.98,4990758
+"July 17, 2022",59,British Columbia,Colombie-Britannique,Total,At least 1 dose,Partially vaccinated,164371,3.15,5214805
+"July 17, 2022",59,British Columbia,Colombie-Britannique,Total,At least 1 dose,Primary series completed,4363364,83.67,5214805
+"July 17, 2022",59,British Columbia,Colombie-Britannique,Total,Primary series completed,No additional dose,1617978,31.03,5214805
+"July 17, 2022",59,British Columbia,Colombie-Britannique,Total,Primary series completed,Received at least 1 additional dose,2745386,52.65,5214805
+"July 17, 2022",59,British Columbia,Colombie-Britannique,Total,Received at least 1 additional dose,No 2nd additional dose,2347176,45.01,5214805
+"July 17, 2022",59,British Columbia,Colombie-Britannique,Total,Received at least 1 additional dose,Received 2nd additional dose,398210,7.64,5214805
+"July 17, 2022",60,Yukon,Yukon,12+,At least 1 dose,Partially vaccinated,775,2.06,37554
+"July 17, 2022",60,Yukon,Yukon,12+,At least 1 dose,Primary series completed,33743,89.85,37554
+"July 17, 2022",60,Yukon,Yukon,12+,Primary series completed,No additional dose,13106,34.9,37554
+"July 17, 2022",60,Yukon,Yukon,12+,Primary series completed,Received at least 1 additional dose,20637,54.95,37554
+"July 17, 2022",60,Yukon,Yukon,12+,Received at least 1 additional dose,No 2nd additional dose,16537,44.04,37554
+"July 17, 2022",60,Yukon,Yukon,12+,Received at least 1 additional dose,Received 2nd additional dose,4100,10.92,37554
+"July 17, 2022",60,Yukon,Yukon,18+,At least 1 dose,Partially vaccinated,686,1.97,34868
+"July 17, 2022",60,Yukon,Yukon,18+,At least 1 dose,Primary series completed,31582,90.58,34868
+"July 17, 2022",60,Yukon,Yukon,18+,Primary series completed,No additional dose,11661,33.44,34868
+"July 17, 2022",60,Yukon,Yukon,18+,Primary series completed,Received at least 1 additional dose,19921,57.13,34868
+"July 17, 2022",60,Yukon,Yukon,18+,Received at least 1 additional dose,No 2nd additional dose,15821,45.37,34868
+"July 17, 2022",60,Yukon,Yukon,18+,Received at least 1 additional dose,Received 2nd additional dose,4100,11.76,34868
+"July 17, 2022",60,Yukon,Yukon,5+,At least 1 dose,Partially vaccinated,1191,2.91,40888
+"July 17, 2022",60,Yukon,Yukon,5+,At least 1 dose,Primary series completed,35321,86.38,40888
+"July 17, 2022",60,Yukon,Yukon,5+,Primary series completed,No additional dose,14684,35.91,40888
+"July 17, 2022",60,Yukon,Yukon,5+,Primary series completed,Received at least 1 additional dose,20637,50.47,40888
+"July 17, 2022",60,Yukon,Yukon,5+,Received at least 1 additional dose,No 2nd additional dose,16537,40.44,40888
+"July 17, 2022",60,Yukon,Yukon,5+,Received at least 1 additional dose,Received 2nd additional dose,4100,10.03,40888
+"July 17, 2022",60,Yukon,Yukon,Total,At least 1 dose,Partially vaccinated,1191,2.76,43118
+"July 17, 2022",60,Yukon,Yukon,Total,At least 1 dose,Primary series completed,35321,81.92,43118
+"July 17, 2022",60,Yukon,Yukon,Total,Primary series completed,No additional dose,14684,34.06,43118
+"July 17, 2022",60,Yukon,Yukon,Total,Primary series completed,Received at least 1 additional dose,20637,47.86,43118
+"July 17, 2022",60,Yukon,Yukon,Total,Received at least 1 additional dose,No 2nd additional dose,16537,38.35,43118
+"July 17, 2022",60,Yukon,Yukon,Total,Received at least 1 additional dose,Received 2nd additional dose,4100,9.51,43118
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,12+,At least 1 dose,Partially vaccinated,761,2.08,36575
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,12+,At least 1 dose,Primary series completed,31741,86.78,36575
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,12+,Primary series completed,No additional dose,13546,37.04,36575
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,12+,Primary series completed,Received at least 1 additional dose,18195,49.75,36575
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,12+,Received at least 1 additional dose,No 2nd additional dose,16468,45.03,36575
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,12+,Received at least 1 additional dose,Received 2nd additional dose,1727,4.72,36575
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,18+,At least 1 dose,Partially vaccinated,592,1.78,33183
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,18+,At least 1 dose,Primary series completed,28962,87.28,33183
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,18+,Primary series completed,No additional dose,11457,34.53,33183
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,18+,Primary series completed,Received at least 1 additional dose,17505,52.75,33183
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,18+,Received at least 1 additional dose,No 2nd additional dose,15778,47.55,33183
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,18+,Received at least 1 additional dose,Received 2nd additional dose,1727,5.2,33183
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,5+,At least 1 dose,Partially vaccinated,1424,3.5,40677
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,5+,At least 1 dose,Primary series completed,33544,82.46,40677
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,5+,Primary series completed,No additional dose,15349,37.73,40677
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,5+,Primary series completed,Received at least 1 additional dose,18195,44.73,40677
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,5+,Received at least 1 additional dose,No 2nd additional dose,16468,40.48,40677
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,5+,Received at least 1 additional dose,Received 2nd additional dose,1727,4.25,40677
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,Total,At least 1 dose,Partially vaccinated,1424,3.28,43473
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,Total,At least 1 dose,Primary series completed,33544,77.16,43473
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,Total,Primary series completed,No additional dose,15349,35.31,43473
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,Total,Primary series completed,Received at least 1 additional dose,18195,41.85,43473
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,Total,Received at least 1 additional dose,No 2nd additional dose,16468,37.88,43473
+"July 17, 2022",61,Northwest Territories,Territoires du Nord-Ouest,Total,Received at least 1 additional dose,Received 2nd additional dose,1727,3.97,43473
+"July 17, 2022",62,Nunavut,Nunavut,12+,At least 1 dose,Partially vaccinated,2567,8.72,29429
+"July 17, 2022",62,Nunavut,Nunavut,12+,At least 1 dose,Primary series completed,26333,89.48,29429
+"July 17, 2022",62,Nunavut,Nunavut,12+,Primary series completed,No additional dose,11373,38.65,29429
+"July 17, 2022",62,Nunavut,Nunavut,12+,Primary series completed,Received at least 1 additional dose,14960,50.83,29429
+"July 17, 2022",62,Nunavut,Nunavut,12+,Received at least 1 additional dose,Not reported,14960,50.83,29429
+"July 17, 2022",62,Nunavut,Nunavut,18+,At least 1 dose,Partially vaccinated,2184,8.74,24988
+"July 17, 2022",62,Nunavut,Nunavut,18+,At least 1 dose,Primary series completed,22787,91.19,24988
+"July 17, 2022",62,Nunavut,Nunavut,18+,Primary series completed,No additional dose,9158,36.65,24988
+"July 17, 2022",62,Nunavut,Nunavut,18+,Primary series completed,Received at least 1 additional dose,13629,54.54,24988
+"July 17, 2022",62,Nunavut,Nunavut,18+,Received at least 1 additional dose,Not reported,13629,54.54,24988
+"July 17, 2022",62,Nunavut,Nunavut,5+,At least 1 dose,Partially vaccinated,3744,10.6,35328
+"July 17, 2022",62,Nunavut,Nunavut,5+,At least 1 dose,Primary series completed,29442,83.34,35328
+"July 17, 2022",62,Nunavut,Nunavut,5+,Primary series completed,No additional dose,14477,40.98,35328
+"July 17, 2022",62,Nunavut,Nunavut,5+,Primary series completed,Received at least 1 additional dose,14965,42.36,35328
+"July 17, 2022",62,Nunavut,Nunavut,5+,Received at least 1 additional dose,Not reported,14965,42.36,35328
+"July 17, 2022",62,Nunavut,Nunavut,Total,At least 1 dose,Partially vaccinated,3744,9.5,39403
+"July 17, 2022",62,Nunavut,Nunavut,Total,At least 1 dose,Primary series completed,29442,74.72,39403
+"July 17, 2022",62,Nunavut,Nunavut,Total,Primary series completed,No additional dose,14477,36.74,39403
+"July 17, 2022",62,Nunavut,Nunavut,Total,Primary series completed,Received at least 1 additional dose,14965,37.98,39403
+"July 17, 2022",62,Nunavut,Nunavut,Total,Received at least 1 additional dose,Not reported,14965,37.98,39403
